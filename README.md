@@ -27,7 +27,7 @@ The projects focus on transforming raw data into actionable insights using indus
 
 - **Programming Languages:** Python, R, SQL  
 - **Libraries & Frameworks:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **Databases:** PostgreSQL, MySQL  
+- **Databases:** MySQL  
 - **Other Tools:** Jupyter Notebook, Git, GitHub
 
 ---
