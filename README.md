@@ -3,9 +3,9 @@
 **Alabi Oshomoshiofu Precious**  
 Data Analyst | Data Scientist  
 
-📧 Email: oshomoshiofualabi@gmail.com  
-🔗 LinkedIn: www.linkedin.com/in/oshomoshiofualabi  
-🌐 Portfolio Hub: https://oshos.github.io  
+Email: oshomoshiofualabi@gmail.com  
+LinkedIn: www.linkedin.com/in/oshomoshiofualabi  
+Portfolio Hub: https://oshos.github.io  
 
 ---
 
@@ -46,5 +46,5 @@ Each project folder includes:
 
 If you’d like to discuss my work or potential opportunities, feel free to reach out:
 
-📧 **Email:** oshomoshiofualabi@gmail.com  
-🔗 **LinkedIn:** www.linkedin.com/in/oshomoshiofualabi
+**Email:** oshomoshiofualabi@gmail.com  
+**LinkedIn:** www.linkedin.com/in/oshomoshiofualabi
